@@ -1,0 +1,176 @@
+{
+  "nodes": [
+    {
+      "id": "Nadia",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Jason Waldie",
+      "group": "Partner"
+    },
+    {
+      "id": "Stephanie",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Clare",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Alice",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Sean",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Alona",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Alina",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Samuel Dubois",
+      "group": "PBCS"
+    },
+    {
+      "id": "Mark Brennan",
+      "group": "PBCS"
+    },
+    {
+      "id": "Rocca ",
+      "group": "Career couch"
+    },
+    {
+      "id": "Debbie Fischer",
+      "group": "Mentor"
+    },
+    {
+      "id": "Jonathan Fowler",
+      "group": "Mentor"
+    },
+    {
+      "id": "Bernadine Yee",
+      "group": "LinkedIn contact"
+    },
+    {
+      "id": "Adina Saposnik",
+      "group": "Mentor"
+    },
+    {
+      "id": "Tim Rowley",
+      "group": "Professor"
+    },
+    {
+      "id": "Milan Mulraine",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Sonia",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Hira",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Robert Philips",
+      "group": "LinkedIn contact"
+    },
+    {
+      "id": "Danley Yip",
+      "group": "Recruiter"
+    },
+    {
+      "id": "Nahid Verma",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Bryan Rogers",
+      "group": "Workday ecosystem"
+    },
+    {
+      "id": "Troy Wiese",
+      "group": "Recruiter"
+    },
+    {
+      "id": "Barry Rivelis",
+      "group": "PBCS"
+    },
+    {
+      "id": "Anne-Marie Kelly",
+      "group": "PBCS"
+    },
+    {
+      "id": "Simon Miller",
+      "group": "Workday ecosystem"
+    },
+    {
+      "id": "Ade",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Sunil",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Newton Chan",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Anna Tiomina",
+      "group": "LinkedIn contact"
+    },
+    {
+      "id": "Garth",
+      "group": "EMBA Student"
+    },
+    {
+      "id": "Pip",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Jenny Hu",
+      "group": "Friend"
+    },
+    {
+      "id": "Ran Maoz",
+      "group": "LinkedIn contact"
+    },
+    {
+      "id": "John King",
+      "group": "LinkedIn contact"
+    },
+    {
+      "id": "Kareem Sandid",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Jude Voon",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "John Kapageridis",
+      "group": "Rotman Alumnus"
+    },
+    {
+      "id": "Luis",
+      "group": "PBCS"
+    }
+  ],
+  "links": [
+    {
+      "source": "Nadia",
+      "target": "Jason",
+      "type": "knows"
+    },
+    {
+      "source": "Jason",
+      "target": "Nadia",
+      "type": "knows"
+    }
+  ]
+}
